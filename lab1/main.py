@@ -1,10 +1,8 @@
 # Program Name: lab1.py
-# Course: IT1114/Section XXX
+# Course: IT1114 and IT1114L Section 01
 # Student Name: Robert McCrary
-# Assignment Number: Lab#
+# Assignment Number: Lab1
 # Due Date: 08/27/2026
-# Purpose: 
-# 
 
 width = float(input("Room Width: "))
 length = float(input("Room Length: "))
