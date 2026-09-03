@@ -1,4 +1,4 @@
-# Program Name: lab1.py
+# Program Name: Lab1.py
 # Course: IT1114 and IT1114L Section 01
 # Student Name: Robert McCrary
 # Assignment Number: Lab1
